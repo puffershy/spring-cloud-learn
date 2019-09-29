@@ -1,4 +1,4 @@
-package com.puffer.disvoery;
+package com.puffer.discovery;
 
 import com.puffer.core.context.mybatis.PufferMapperScan;
 import org.springframework.boot.SpringApplication;
